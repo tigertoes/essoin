@@ -1,9 +1,9 @@
 Essoin
 ======
-A SDP ([RFC4566](https://tools.ietf.org/html/rfc4566)) parser. It aims to be as
-correct as feasible, but also flexible. Unlike other implementations in similar
-programming languages, this implementation does not use any regular expressions
-and should remain fairly easy to understand. 
+A SDP (RFC4566) parser. It aims to be as correct as feasible, but also flexible.
+Unlike other implementations in similar programming languages, this
+implementation does not use any regular expressions and should remain fairly
+easy to understand. 
 
 Usage
 -----
